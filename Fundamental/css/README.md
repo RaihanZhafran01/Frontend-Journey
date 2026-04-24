@@ -36,25 +36,6 @@ Pemanfaatan `@keyframes` dan properti `transition` untuk menciptakan pengalaman 
 
 ---
 
-## 🛠️ Ekosistem & Tumpukan Teknologi
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap,figma,js&theme=dark" />
-</p>
-
----
-
-## 📈 Progres Pembelajaran CSS
-
-| Materi | Tingkat Kesulitan | Status |
-| :--- | :--- | :--- |
-| Selektor & Box Model | ⭐ | <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=flat-square" alt="Completed" /> |
-| Flexbox & Grid | ⭐⭐ | <img src="https://img.shields.io/badge/STATUS-PROCESSING-yellow?style=flat-square" alt="Processing" /> |
-| Responsive Design | ⭐⭐ | <img src="https://img.shields.io/badge/STATUS-QUEUED-lightgrey?style=flat-square" alt="Queued" /> |
-| Animations (SASS/Keyframes) | ⭐⭐⭐ | <img src="https://img.shields.io/badge/STATUS-QUEUED-lightgrey?style=flat-square" alt="Queued" /> |
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,30:00F7FF,70:2c5364,100:0f2027&height=150&section=footer&animation=twinkling"/>
 </p>
