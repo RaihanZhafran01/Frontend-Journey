@@ -34,7 +34,7 @@ Berikut adalah status penguasaan materi yang sedang dan akan dipelajari:
 Secara formal, Pengembangan Frontend berfokus pada tiga pilar utama untuk menciptakan pengalaman pengguna (UX) yang optimal digital:
 
 1.  **Responsivitas Perangkat:** Memastikan antarmuka beradaptasi sempurna di berbagai ukuran layar.
-2.  **Aksesibilitas (a11y):** Membangun web yang dapat digunakan oleh semua orang, termasuk penyandang disabilitas.
+2.  **Aksesibilitas (a11y):** Membangun web yang dapat digunakan oleh semua orang.
 3.  **Performa Optimal:** Meminimalisir waktu muat halaman dan memastikan interaksi yang mulus tanpa *lag*.
 
 ---
