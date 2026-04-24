@@ -39,15 +39,6 @@ Secara formal, Pengembangan Frontend berfokus pada tiga pilar utama untuk mencip
 
 ---
 
-## 📈 Terminal Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanZhafran01&theme=dark&hide_border=true&type=png" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaihanZhafran01&show_icons=true&theme=dark&hide_border=true&count_private=true&type=png" alt="GitHub Stats" width="49%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:00F7FF,50:003366,0:000000&height=100&section=footer&animation=soft"/>
 </p>
