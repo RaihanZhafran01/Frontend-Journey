@@ -9,7 +9,7 @@ Penting untuk diketahui bahwa proyek-proyek yang terdapat di dalam folder ini ti
 
 Referensi Eksternal: Inspirasi desain dan cuplikan kode yang diambil dari platform seperti TikTok, Pinterest, atau repositori pengembang lain. 🌐
 
-Bantuan Kecerdasan Buatan (AI): Proses pengembangan dan pemecahan masalah dibantu oleh alat berbasis AI (seperti Gemini atau ChatGPT) untuk mencapai visualisasi yang diinginkan. 🤖
+Bantuan Kecerdasan Buatan (AI): Proses pengembangan dan pemecahan masalah dibantu oleh alat berbasis AI (seperti Gemini atau Claude) untuk mencapai visualisasi yang diinginkan. 🤖
 
 📚 Tujuan Pembelajaran
 Keberadaan folder ini ditujukan sepenuhnya sebagai media pembelajaran dan inspirasi. Saya menggunakan kode-kode tersebut untuk:
