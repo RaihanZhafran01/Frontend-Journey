@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-transform: capitalize;
+    background-color: lightseagreen;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px auto;
+    height: 20px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
