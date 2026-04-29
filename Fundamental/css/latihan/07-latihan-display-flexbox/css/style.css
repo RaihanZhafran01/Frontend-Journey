@@ -24,6 +24,7 @@ h2{
     justify-content: center;
     display: flex;
     padding: 10px;
+    text-transform: capitalize;
 }
 
 p{
@@ -64,6 +65,7 @@ h2.sub{
     align-items: center;
     justify-content: center;
     padding: 10px;
+    text-transform: capitalize;
 }
 
 .inline-block{
