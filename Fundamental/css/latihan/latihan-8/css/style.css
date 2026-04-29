@@ -1,0 +1,104 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: cyan;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    font-size: 60px;
+}
+h2{
+    background-color: rgb(135, 106, 195);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px 20px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+    margin: 30px;
+}
+
+.inline{
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 5px;
+}
+
+.block{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 40px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h2.sub{
+    background-color: rgb(135, 106, 195);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px 20px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.inline-block{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 5px;
+    display: inline-block;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container{
+    baackground-color: rgb(135, 106, 195);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    background-color: sandybrown;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
