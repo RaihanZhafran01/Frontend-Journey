@@ -24,7 +24,7 @@ Berikut adalah status penguasaan materi yang sedang dan akan dipelajari:
 | :--- | :--- | :--- |
 | `FE-01` | **Arsitektur Dasar:** HTML5 Semantik & CSS3 Modern (Grid/Flexbox). | <img src="https://img.shields.io/badge/STATUS-PROCESSING-yellow?style=flat-square" alt="Processing" /> |
 | `FE-02` | **Logika Inti:** JavaScript ES6+, Manipulasi DOM, & Asynchronous. | <img src="https://img.shields.io/badge/STATUS-PROCESSING-yellow?style=flat-square" alt="Processing" /> |
-| `FE-03` | **Framework Visual:** Tailwind CSS / Bootstrap 5. | <img src="https://img.shields.io/badge/STATUS-PROCESSING-lightgrey?style=flat-square" alt="PROCESSING" /> |
+| `FE-03` | **Framework Visual:** Tailwind CSS / Bootstrap 5. | <img src="https://img.shields.io/badge/STATUS-PROCESSING-YELLOW?style=flat-square" alt="PROCESSING" /> |
 | `FE-04` | **Reaktivitas:** React.js / Next.js Ekosistem. | <img src="https://img.shields.io/badge/STATUS-QUEUED-lightgrey?style=flat-square" alt="Queued" /> |
 
 ---
