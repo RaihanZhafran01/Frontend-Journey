@@ -1,0 +1,48 @@
+input{
+    font-size: 120%;
+    background-color: #efefef;
+    color: darkslategray;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    padding: 5px 5px 5px 40px;
+    display: block;
+    margin-bottom: 10px;
+
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 8px;
+}
+
+input:hover{
+    background-color: #ffff;
+}
+
+input#email{
+    background-image: url(../image/email.png);
+}
+
+input#instagram{
+    background-image: url(../image/instgaram.png);
+}
+
+input#web{
+    background-image: url(../image/web.jpg);
+}
+
+input#submit{
+    color: #efefefef;
+    text-shadow: 1px 1px 1px #ffffffS;
+    background-color: darkgoldenrod;
+    padding: 5px 10px 5px 10px;
+}
+
+input#submit:hover{
+    color: grey;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+input#submit:active{
+    color: lawngreen;
+    background-color: coral;
+}
