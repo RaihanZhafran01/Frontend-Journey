@@ -1,0 +1,59 @@
+*{
+    font-family: arial;
+}
+
+div.container{
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+div.konten{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+}
+
+div.test{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 20px;
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+    top: 4rem;
+}
+
+div.test div{
+    background-color: burlywood;
+    border: 1px solid black;
+    margin: 10px;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+form{
+    position: relative;
+    top: 100px;
+    margin: 5px;
+    padding: 10px;
+}
+
+label{
+    position: absolute;
+    left: 15px;
+}
