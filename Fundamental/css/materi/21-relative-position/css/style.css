@@ -1,0 +1,28 @@
+*{
+    font-family: arial;
+    padding: 5px;
+}
+
+
+h1{
+    text-transform: capitalize;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: grey;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    width: 20rem;
+}
+
+p{
+    background-color: beige;
+    position: relative;
+    top: 10px;
+}
+
+
+
